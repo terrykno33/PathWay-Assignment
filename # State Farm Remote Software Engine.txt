@@ -1,0 +1,19 @@
+# State Farm Remote Software Engineer Application
+
+This repository contains my application materials for the Remote Software Engineer (Full Stack) position at State Farm in Richardson, TX.
+
+## Included Documents
+
+- JobAdKnowles.docx: The original job advertisement.
+- ResumeKnowles.docx: My tailored resume for this role.
+- ChecklistKnowles.docx: Self-evaluation and checklist as per assignment requirements.
+
+## About Me
+
+I am Terry Knowles, a full-time Computer Science student at DeVry University, focused on becoming a remote web developer and IT solutions builder. This submission showcases my attention to detail, professionalism, and alignment with the job requirements.
+
+---
+
+Feel free to reach out:  
+📧 terrykno33@gmail.com  
+📞 (682) 336-3073
